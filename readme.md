@@ -1,7 +1,2 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=4e63d6&height=200&section=header&text=근마고&fontSize=50&animation=fadeIn&fontColor=DDDDDD)
-
-# 안녕하세요
-
-> 문단입니다.
-
-```c
+![header](https://capsule-render.vercel.app/api?type=Waving&color=4e63d6&height=200&section=header&text=???:화성갈끄니까~&fontSize=50&animation=fadeIn&fontColor=DDDDDD)
+![header](https://mblogthumb-phinf.pstatic.net/MjAyMTA1MTlfMjcx/MDAxNjIxMzg0OTA3MzE5.b7VzCMs6LpKK4y_n-Ix3ldmnnFGkY1ATDkbAUHsYFvEg.JkrHp_drdFgW2fhWH2MXZ3XMexUmF5CS5EYDYeRZxVAg.JPEG.goldwit/1621384905000.jpg?type=w800)
